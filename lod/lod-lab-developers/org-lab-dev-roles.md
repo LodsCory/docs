@@ -74,7 +74,7 @@ The permissions that come with these roles are outlined below.
 ## Base Roles
 
 ### Default User
-This role is required for a user to login to Lab On Demand. It will be added by default to any user created by the **Organization Role Admin**.
+This role is required for a user to login to Lab On Demand. It will be added by default to any user created by the **Organization Role Admin**.  
 
 ### Organization Cloud Orchestration Admin
 This role is designed for users who manage the cloud subscription accounts and within an Organization. 
